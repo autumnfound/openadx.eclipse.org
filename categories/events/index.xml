@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on </title>
+    <link>https://eclipsefdn.github.io/openadx.eclipse.org/categories/events/</link>
+    <description>Recent content in Events on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 30 May 2019 05:10:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://eclipsefdn.github.io/openadx.eclipse.org/categories/events/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OpenADx Workshop - Forming an Eclipse Working Group</title>
+      <link>https://eclipsefdn.github.io/openadx.eclipse.org/events/2019-06-25/</link>
+      <pubDate>Thu, 30 May 2019 05:10:00 +0000</pubDate>
+      
+      <guid>https://eclipsefdn.github.io/openadx.eclipse.org/events/2019-06-25/</guid>
+      <description>Date: 25th June 2019
+Location: Filderhalle Leinfelden-Echterdingen (near Stuttgart airport)
+We are happy to invite you to our first meeting about forming the Eclipse OpenADx Working Group.
+This event will bring all interested parties together for information about the Eclipse Working Group idea. Everyone is invited! We will also discuss technical aspects and continue our open exchange.
+Please see the OpenADx Working Group wiki page for more information. The meeting is organized by the Eclipse Foundation and Bosch as an Eclipse member, and will be held under the Eclipse Bylaws (Eclipse Bylaws, Industry Working Group Process, Eclipse Intellectual Property Policy, Eclipse Anti-Trust Policy).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on </title>
-    <link>https://eclipsefdn.github.io/openadx.eclipse.org/news/</link>
+    <link>https://eclipsefdn.github.io/openadx.eclipse.org/categories/news/</link>
     <description>Recent content in News on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 16 Apr 2019 16:09:45 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2019 05:10:00 +0000</lastBuildDate>
     
-	<atom:link href="https://eclipsefdn.github.io/openadx.eclipse.org/news/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://eclipsefdn.github.io/openadx.eclipse.org/categories/news/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
