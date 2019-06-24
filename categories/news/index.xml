@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on </title>
-    <link>https://eclipsefdn.github.io/openadx.eclipse.org/categories/news/</link>
+    <link>https://openadx.eclipse.org/categories/news/</link>
     <description>Recent content in News on </description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 17 Jun 2019 05:10:00 +0000</lastBuildDate>
     
-	<atom:link href="https://eclipsefdn.github.io/openadx.eclipse.org/categories/news/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://openadx.eclipse.org/categories/news/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First OpenADx project - Eclipse Cloe - in community review now</title>
-      <link>https://eclipsefdn.github.io/openadx.eclipse.org/news/2019/06/17/first-openadx-project-eclipse-cloe-in-community-review-now/</link>
+      <link>https://openadx.eclipse.org/news/2019/06/17/first-openadx-project-eclipse-cloe-in-community-review-now/</link>
       <pubDate>Mon, 17 Jun 2019 05:10:00 +0000</pubDate>
       
-      <guid>https://eclipsefdn.github.io/openadx.eclipse.org/news/2019/06/17/first-openadx-project-eclipse-cloe-in-community-review-now/</guid>
+      <guid>https://openadx.eclipse.org/news/2019/06/17/first-openadx-project-eclipse-cloe-in-community-review-now/</guid>
       <description>The first open source project which will be contributed by the OpenADx Eclipse Working Group is now in the community review.
 What is Eclipse Cloe? Eclipse Cloe is an enhanced middleware solution for closed-loop simulations, with a focus on functional software tests on system level. Cloe is used as a development tool for interactive and scripted workstation simulations, for code debugging, and for automated tests on servers. Cloe covers a central part of the verification and validation strategy, needed by all vendors in the field of Automated Driving.</description>
     </item>
     
     <item>
       <title>OpenADx Becomes Eclipse Working Group - Focused on Interoperability in the Autonomous Driving Software Stack</title>
-      <link>https://eclipsefdn.github.io/openadx.eclipse.org/news/2019/06/17/openadx-becomes-eclipse-working-group-focused-on-interoperability-in-the-autonomous-driving-software-stack/</link>
+      <link>https://openadx.eclipse.org/news/2019/06/17/openadx-becomes-eclipse-working-group-focused-on-interoperability-in-the-autonomous-driving-software-stack/</link>
       <pubDate>Mon, 17 Jun 2019 05:10:00 +0000</pubDate>
       
-      <guid>https://eclipsefdn.github.io/openadx.eclipse.org/news/2019/06/17/openadx-becomes-eclipse-working-group-focused-on-interoperability-in-the-autonomous-driving-software-stack/</guid>
+      <guid>https://openadx.eclipse.org/news/2019/06/17/openadx-becomes-eclipse-working-group-focused-on-interoperability-in-the-autonomous-driving-software-stack/</guid>
       <description>The Eclipse Foundation today announced the launch of the OpenADx Working Group, an automotive industry collaboration focused on creating better compatibility, interfaces, and broader interoperability for the autonomous driving development stack.</description>
     </item>
     

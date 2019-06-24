@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Events on </title>
-    <link>https://eclipsefdn.github.io/openadx.eclipse.org/categories/events/</link>
+    <link>https://openadx.eclipse.org/categories/events/</link>
     <description>Recent content in Events on </description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 30 May 2019 05:10:00 +0000</lastBuildDate>
     
-	<atom:link href="https://eclipsefdn.github.io/openadx.eclipse.org/categories/events/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://openadx.eclipse.org/categories/events/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>OpenADx Workshop - Forming an Eclipse Working Group</title>
-      <link>https://eclipsefdn.github.io/openadx.eclipse.org/events/2019-06-25/</link>
+      <link>https://openadx.eclipse.org/events/2019-06-25/</link>
       <pubDate>Thu, 30 May 2019 05:10:00 +0000</pubDate>
       
-      <guid>https://eclipsefdn.github.io/openadx.eclipse.org/events/2019-06-25/</guid>
+      <guid>https://openadx.eclipse.org/events/2019-06-25/</guid>
       <description>Date: 25th June 2019
 Location: Filderhalle Leinfelden-Echterdingen (near Stuttgart airport)
 We are happy to invite you to our first meeting about forming the Eclipse OpenADx Working Group.

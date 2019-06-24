@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on </title>
-    <link>https://eclipsefdn.github.io/openadx.eclipse.org/</link>
+    <link>https://openadx.eclipse.org/</link>
     <description>Recent content in Home on </description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 14 Mar 2019 15:50:25 -0400</lastBuildDate>
     
-	<atom:link href="https://eclipsefdn.github.io/openadx.eclipse.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://openadx.eclipse.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First OpenADx project - Eclipse Cloe - in community review now</title>
-      <link>https://eclipsefdn.github.io/openadx.eclipse.org/news/2019/06/17/first-openadx-project-eclipse-cloe-in-community-review-now/</link>
+      <link>https://openadx.eclipse.org/news/2019/06/17/first-openadx-project-eclipse-cloe-in-community-review-now/</link>
       <pubDate>Mon, 17 Jun 2019 05:10:00 +0000</pubDate>
       
-      <guid>https://eclipsefdn.github.io/openadx.eclipse.org/news/2019/06/17/first-openadx-project-eclipse-cloe-in-community-review-now/</guid>
+      <guid>https://openadx.eclipse.org/news/2019/06/17/first-openadx-project-eclipse-cloe-in-community-review-now/</guid>
       <description>The first open source project which will be contributed by the OpenADx Eclipse Working Group is now in the community review.
 What is Eclipse Cloe? Eclipse Cloe is an enhanced middleware solution for closed-loop simulations, with a focus on functional software tests on system level. Cloe is used as a development tool for interactive and scripted workstation simulations, for code debugging, and for automated tests on servers. Cloe covers a central part of the verification and validation strategy, needed by all vendors in the field of Automated Driving.</description>
     </item>
     
     <item>
       <title>OpenADx Becomes Eclipse Working Group - Focused on Interoperability in the Autonomous Driving Software Stack</title>
-      <link>https://eclipsefdn.github.io/openadx.eclipse.org/news/2019/06/17/openadx-becomes-eclipse-working-group-focused-on-interoperability-in-the-autonomous-driving-software-stack/</link>
+      <link>https://openadx.eclipse.org/news/2019/06/17/openadx-becomes-eclipse-working-group-focused-on-interoperability-in-the-autonomous-driving-software-stack/</link>
       <pubDate>Mon, 17 Jun 2019 05:10:00 +0000</pubDate>
       
-      <guid>https://eclipsefdn.github.io/openadx.eclipse.org/news/2019/06/17/openadx-becomes-eclipse-working-group-focused-on-interoperability-in-the-autonomous-driving-software-stack/</guid>
+      <guid>https://openadx.eclipse.org/news/2019/06/17/openadx-becomes-eclipse-working-group-focused-on-interoperability-in-the-autonomous-driving-software-stack/</guid>
       <description>The Eclipse Foundation today announced the launch of the OpenADx Working Group, an automotive industry collaboration focused on creating better compatibility, interfaces, and broader interoperability for the autonomous driving development stack.</description>
     </item>
     
     <item>
       <title>OpenADx Workshop - Forming an Eclipse Working Group</title>
-      <link>https://eclipsefdn.github.io/openadx.eclipse.org/events/2019-06-25/</link>
+      <link>https://openadx.eclipse.org/events/2019-06-25/</link>
       <pubDate>Thu, 30 May 2019 05:10:00 +0000</pubDate>
       
-      <guid>https://eclipsefdn.github.io/openadx.eclipse.org/events/2019-06-25/</guid>
+      <guid>https://openadx.eclipse.org/events/2019-06-25/</guid>
       <description>Date: 25th June 2019
 Location: Filderhalle Leinfelden-Echterdingen (near Stuttgart airport)
 We are happy to invite you to our first meeting about forming the Eclipse OpenADx Working Group.
@@ -44,10 +44,10 @@ Please see the OpenADx Working Group wiki page for more information. The meeting
     
     <item>
       <title>Projects</title>
-      <link>https://eclipsefdn.github.io/openadx.eclipse.org/projects/</link>
+      <link>https://openadx.eclipse.org/projects/</link>
       <pubDate>Tue, 16 Apr 2019 16:09:45 +0200</pubDate>
       
-      <guid>https://eclipsefdn.github.io/openadx.eclipse.org/projects/</guid>
+      <guid>https://openadx.eclipse.org/projects/</guid>
       <description>Eclipse Cloe Eclipse Cloe provides simulation middleware and simulation-engine bindings for connecting simulation engines to the &#34;software under test&#34;.
 Project Proposal
   </description>
@@ -55,10 +55,10 @@ Project Proposal
     
     <item>
       <title>Resources</title>
-      <link>https://eclipsefdn.github.io/openadx.eclipse.org/resources/</link>
+      <link>https://openadx.eclipse.org/resources/</link>
       <pubDate>Tue, 16 Apr 2019 16:09:45 +0200</pubDate>
       
-      <guid>https://eclipsefdn.github.io/openadx.eclipse.org/resources/</guid>
+      <guid>https://openadx.eclipse.org/resources/</guid>
       <description>White Papers under construction
 Articles Watch the video on OpenADx here on YouTube: https://youtu.be/7gHLkSzWNKA
  Blog Post: Autonomous Driving Toolchain Blog Post: Autonomous Driving Accelerator OpenADx launched Blog Post: 5 things you should know about OpenADx Blog Post: OpenADx reaches next level Vorteile von Open Source fuer ADAS und autonomes Fahren (only in German available)  Videos  YouTube: OpenADx - Leveraging open collaboration &amp;amp; OS to accelerate Autonomous Driving dev   YouTube: OpenADx &amp;ldquo;Autonomous Driving Simulation&amp;rdquo; Testbed – hardware in the loop (sponsored by Renesas)</description>
@@ -66,10 +66,10 @@ Articles Watch the video on OpenADx here on YouTube: https://youtu.be/7gHLkSzWNK
     
     <item>
       <title>Technologies</title>
-      <link>https://eclipsefdn.github.io/openadx.eclipse.org/technologies/</link>
+      <link>https://openadx.eclipse.org/technologies/</link>
       <pubDate>Tue, 16 Apr 2019 16:09:45 +0200</pubDate>
       
-      <guid>https://eclipsefdn.github.io/openadx.eclipse.org/technologies/</guid>
+      <guid>https://openadx.eclipse.org/technologies/</guid>
       <description>About Technologies Automated Driving (AD) is clustered into three equally important technology areas:
  In-vehicle technology Cloud technology (backend) Design, development, test and validation tools (tool chain)  OpenADx is currently focused on the AD tool chain. The goal is to accelerate AD development through open collaboration and open source.
 OpenADx&amp;rsquo; vision is to ensure transparency and make the complex AD tool landscape more easily accessible for enterprise users.
@@ -78,19 +78,19 @@ Challenge AD is a complex challenge and therefore requires a multifaceted develo
     
     <item>
       <title>Vision</title>
-      <link>https://eclipsefdn.github.io/openadx.eclipse.org/vision/</link>
+      <link>https://openadx.eclipse.org/vision/</link>
       <pubDate>Tue, 16 Apr 2019 16:09:45 +0200</pubDate>
       
-      <guid>https://eclipsefdn.github.io/openadx.eclipse.org/vision/</guid>
+      <guid>https://openadx.eclipse.org/vision/</guid>
       <description>Autonomous driving (AD) is an extremely complex challenge with a complex development process, which is slowed at every turn by incompatibility between widely used development tools. The tools we already use in and of themselves are very good, but they do not work seamlessly with one another simply because they were never designed to work with each other. This is an industry-wide issue. It slows us all down in the race to automated driving.</description>
     </item>
     
     <item>
       <title>Working Group</title>
-      <link>https://eclipsefdn.github.io/openadx.eclipse.org/working-group/</link>
+      <link>https://openadx.eclipse.org/working-group/</link>
       <pubDate>Tue, 16 Apr 2019 16:09:45 +0200</pubDate>
       
-      <guid>https://eclipsefdn.github.io/openadx.eclipse.org/working-group/</guid>
+      <guid>https://openadx.eclipse.org/working-group/</guid>
       <description>About The OpenADx working group will coordinate the development of Eclipse Foundation projects on the following topics:
  Implementation of interfaces between the development steps Implementation of common standards from other working groups (e.g. VDA Leitinitiative) Definition of an initial setup for fast implementation Ensures interoperability between development stages  Projects hosted by the Eclipse Foundation in the context of the OpenADx working group apply the Eclipse development process and best practices of openness, transparency and meritocracy.</description>
     </item>
