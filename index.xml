@@ -50,6 +50,8 @@ Please see the OpenADx Working Group wiki page for more information. The meeting
       <guid>https://openadx.eclipse.org/projects/</guid>
       <description>Eclipse Cloe Eclipse Cloe provides simulation middleware and simulation-engine bindings for connecting simulation engines to the &#34;software under test&#34;.
 Project Proposal
+ Eclipse iceoryx Eclipse iceoryx is a middleware with a zero-copy shared memory approach which is optimized for the huge data inter-process-communication.
+View Project
   </description>
     </item>
     
