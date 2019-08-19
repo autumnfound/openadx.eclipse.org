@@ -53,7 +53,52 @@
   </url>
   
   <url>
+    <loc>https://openadx.eclipse.org/members/avl-list-gmbh/</loc>
+    <lastmod>2019-03-14T05:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openadx.eclipse.org/members/eteration/</loc>
+    <lastmod>2019-03-14T05:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openadx.eclipse.org/members/ibm/</loc>
+    <lastmod>2019-03-14T05:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openadx.eclipse.org/members/itemis/</loc>
+    <lastmod>2019-03-14T05:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openadx.eclipse.org/members/jc/</loc>
+    <lastmod>2019-03-14T05:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openadx.eclipse.org/members/redhat/</loc>
+    <lastmod>2019-03-14T05:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openadx.eclipse.org/members/bosch/</loc>
+    <lastmod>2019-03-14T05:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openadx.eclipse.org/members/siemens/</loc>
+    <lastmod>2019-03-14T05:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://openadx.eclipse.org/events/</loc>
+    <lastmod>2018-04-05T15:50:25-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openadx.eclipse.org/members/</loc>
     <lastmod>2018-04-05T15:50:25-04:00</lastmod>
   </url>
   
@@ -66,6 +111,12 @@
   <url>
     <loc>https://openadx.eclipse.org/categories/news/</loc>
     <lastmod>2019-06-17T05:10:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://openadx.eclipse.org/participation_levels/participant/</loc>
+    <lastmod>2019-03-14T05:10:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

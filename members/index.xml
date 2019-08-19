@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Explore Members on </title>
+    <link>https://openadx.eclipse.org/members/</link>
+    <description>Recent content in Explore Members on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 05 Apr 2018 15:50:25 -0400</lastBuildDate>
+    
+	<atom:link href="https://openadx.eclipse.org/members/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AVL List GmbH</title>
+      <link>https://openadx.eclipse.org/members/avl-list-gmbh/</link>
+      <pubDate>Thu, 14 Mar 2019 05:10:00 +0000</pubDate>
+      
+      <guid>https://openadx.eclipse.org/members/avl-list-gmbh/</guid>
+      <description>AVL - Development, testing &amp;amp; simulation of powertrain systems</description>
+    </item>
+    
+    <item>
+      <title>Eteration A.S.</title>
+      <link>https://openadx.eclipse.org/members/eteration/</link>
+      <pubDate>Thu, 14 Mar 2019 05:10:00 +0000</pubDate>
+      
+      <guid>https://openadx.eclipse.org/members/eteration/</guid>
+      <description>ETERATION builds the right solutions for your organization, transforming it to a Digitally enabled body while leveraging your existing investments.</description>
+    </item>
+    
+    <item>
+      <title>IBM</title>
+      <link>https://openadx.eclipse.org/members/ibm/</link>
+      <pubDate>Thu, 14 Mar 2019 05:10:00 +0000</pubDate>
+      
+      <guid>https://openadx.eclipse.org/members/ibm/</guid>
+      <description>Rational software from IBM helps organizations create business value by improving their software development capability.</description>
+    </item>
+    
+    <item>
+      <title>Itemis AG</title>
+      <link>https://openadx.eclipse.org/members/itemis/</link>
+      <pubDate>Thu, 14 Mar 2019 05:10:00 +0000</pubDate>
+      
+      <guid>https://openadx.eclipse.org/members/itemis/</guid>
+      <description>itemis improves quality and cuts costs of software projects by the use of model driven software development (MDSD) and Eclipse based tool chains.</description>
+    </item>
+    
+    <item>
+      <title>JC Information Management GmbH</title>
+      <link>https://openadx.eclipse.org/members/jc/</link>
+      <pubDate>Thu, 14 Mar 2019 05:10:00 +0000</pubDate>
+      
+      <guid>https://openadx.eclipse.org/members/jc/</guid>
+      <description>Our mission is to assemble scalable operations of platform-driven business models.</description>
+    </item>
+    
+    <item>
+      <title>Red Hat</title>
+      <link>https://openadx.eclipse.org/members/redhat/</link>
+      <pubDate>Thu, 14 Mar 2019 05:10:00 +0000</pubDate>
+      
+      <guid>https://openadx.eclipse.org/members/redhat/</guid>
+      <description>What began as a better way to build software&amp;ndash;openness, transparency, collaboration&amp;ndash;soon shifted the balance of power in an entire industry.</description>
+    </item>
+    
+    <item>
+      <title>Robert Bosch GmbH</title>
+      <link>https://openadx.eclipse.org/members/bosch/</link>
+      <pubDate>Thu, 14 Mar 2019 05:10:00 +0000</pubDate>
+      
+      <guid>https://openadx.eclipse.org/members/bosch/</guid>
+      <description>The Bosch Group is a leading global supplier of technology and services in 4 business sectors: Mobility Solutions, Industrial Technology, Consumer Goods, and Energy and Building Technology.</description>
+    </item>
+    
+    <item>
+      <title>Siemens AG</title>
+      <link>https://openadx.eclipse.org/members/siemens/</link>
+      <pubDate>Thu, 14 Mar 2019 05:10:00 +0000</pubDate>
+      
+      <guid>https://openadx.eclipse.org/members/siemens/</guid>
+      <description>Siemens AG is a German engineering conglomerate, the largest of its kind in Europe.</description>
+    </item>
+    
+  </channel>
+</rss>
