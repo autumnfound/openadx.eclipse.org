@@ -5,10 +5,49 @@
     <link>https://openadx.eclipse.org/categories/news/</link>
     <description>Recent content in News on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 17 Jun 2019 05:10:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2019 17:07:06 +0300</lastBuildDate>
     
 	<atom:link href="https://openadx.eclipse.org/categories/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>EclipseCon Europe - meet us there</title>
+      <link>https://openadx.eclipse.org/news/2019/10/21/eclipsecon-europe-meet-us-there/</link>
+      <pubDate>Mon, 21 Oct 2019 17:07:06 +0300</pubDate>
+      
+      <guid>https://openadx.eclipse.org/news/2019/10/21/eclipsecon-europe-meet-us-there/</guid>
+      <description>Date 21st - 24th October 2019
+Open Collaboration for safer Autonomous Mobility of the Future (Director&amp;rsquo;s Pick)
+Work in the field of automated driving and autonomous mobility requires many multi-faceted processes incorporating a variety of software tools. In particular, any software that will be used in a vehicle must undergo rigorous testing, increasingly including vehicle and traffic simulation, as part of the verification and validation (V&amp;amp;V) strategy.
+As of yet, there is no single tool to cover all simulation needs from the detailed level of the vehicle to the transportation system as a whole.</description>
+    </item>
+    
+    <item>
+      <title>Welcome EclipseSource Munich GmbH in the OpenADx Working Group!</title>
+      <link>https://openadx.eclipse.org/news/2019/10/18/welcome-eclipsesource-munich-gmbh-in-the-openadx-working-group/</link>
+      <pubDate>Fri, 18 Oct 2019 16:49:29 +0300</pubDate>
+      
+      <guid>https://openadx.eclipse.org/news/2019/10/18/welcome-eclipsesource-munich-gmbh-in-the-openadx-working-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenADx at the Microsoft booth on IAA</title>
+      <link>https://openadx.eclipse.org/news/2019/09/10/openadx-at-the-microsoft-booth-on-iaa/</link>
+      <pubDate>Tue, 10 Sep 2019 16:45:02 +0300</pubDate>
+      
+      <guid>https://openadx.eclipse.org/news/2019/09/10/openadx-at-the-microsoft-booth-on-iaa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Press Release - OpenADx Becomes Eclipse Working Group Focused on Interoperability in the Autonomous Driving Software Stack</title>
+      <link>https://openadx.eclipse.org/news/2019/08/27/press-release-openadx-becomes-eclipse-working-group-focused-on-interoperability-in-the-autonomous-driving-software-stack/</link>
+      <pubDate>Tue, 27 Aug 2019 16:31:48 +0300</pubDate>
+      
+      <guid>https://openadx.eclipse.org/news/2019/08/27/press-release-openadx-becomes-eclipse-working-group-focused-on-interoperability-in-the-autonomous-driving-software-stack/</guid>
+      <description>&lt;p&gt;Originally launched by Bosch and Microsoft, the OpenADx working group calls for participation from automotive industry OEMs, tools vendors, and developer community&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>First OpenADx project - Eclipse Cloe - in community review now</title>
