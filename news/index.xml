@@ -11,15 +11,38 @@
     
     
     <item>
+      <title>OpenADx at the IoT Solutions World Congress</title>
+      <link>https://openadx.eclipse.org/news/2019/10/31/openadx-at-the-iot-solutions-world-congress/</link>
+      <pubDate>Thu, 31 Oct 2019 14:16:29 +0300</pubDate>
+      
+      <guid>https://openadx.eclipse.org/news/2019/10/31/openadx-at-the-iot-solutions-world-congress/</guid>
+      <description>Date 28th October 2019
+Learn more here&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title> OpenADx publishes first project - Eclipse iceoryx</title>
+      <link>https://openadx.eclipse.org/news/2019/10/31/openadx-publishes-first-project-eclipse-iceoryx/</link>
+      <pubDate>Thu, 31 Oct 2019 14:14:57 +0300</pubDate>
+      
+      <guid>https://openadx.eclipse.org/news/2019/10/31/openadx-publishes-first-project-eclipse-iceoryx/</guid>
+      <description>Date 25th October 2019
+The initial contribution of Eclipse iceoryx is done! You can find the software in GitHub.
+Learn more here&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>EclipseCon Europe - meet us there</title>
       <link>https://openadx.eclipse.org/news/2019/10/21/eclipsecon-europe-meet-us-there/</link>
       <pubDate>Mon, 21 Oct 2019 17:07:06 +0300</pubDate>
       
       <guid>https://openadx.eclipse.org/news/2019/10/21/eclipsecon-europe-meet-us-there/</guid>
       <description>Date 21st - 24th October 2019
-Open Collaboration for safer Autonomous Mobility of the Future (Director&amp;rsquo;s Pick)
-Work in the field of automated driving and autonomous mobility requires many multi-faceted processes incorporating a variety of software tools. In particular, any software that will be used in a vehicle must undergo rigorous testing, increasingly including vehicle and traffic simulation, as part of the verification and validation (V&amp;amp;V) strategy.
-As of yet, there is no single tool to cover all simulation needs from the detailed level of the vehicle to the transportation system as a whole.</description>
+You will have the chance to get in touch with the OpenADx Working Group in the sessions:
+ Community Day - Automotive@Eclipse 
+ Session: Open Collaboration for safer Autonomous Mobility of the Future
+  Or just look around and get in contact with us.
+Learn more here</description>
     </item>
     
     <item>
@@ -28,7 +51,8 @@ As of yet, there is no single tool to cover all simulation needs from the detail
       <pubDate>Fri, 18 Oct 2019 16:49:29 +0300</pubDate>
       
       <guid>https://openadx.eclipse.org/news/2019/10/18/welcome-eclipsesource-munich-gmbh-in-the-openadx-working-group/</guid>
-      <description></description>
+      <description>EclipseSource Munich GmbH joined the OpenADx Working Group and will help us to form our working group. Welcome!
+Learn more here&amp;hellip;</description>
     </item>
     
     <item>
@@ -37,7 +61,8 @@ As of yet, there is no single tool to cover all simulation needs from the detail
       <pubDate>Tue, 10 Sep 2019 16:45:02 +0300</pubDate>
       
       <guid>https://openadx.eclipse.org/news/2019/09/10/openadx-at-the-microsoft-booth-on-iaa/</guid>
-      <description></description>
+      <description>Meet OpenADx at the Microsoft Booth at the IAA motorshow in Frankfurt/M. to learn more about the current state.
+Learn more here&amp;hellip;</description>
     </item>
     
     <item>
@@ -46,7 +71,7 @@ As of yet, there is no single tool to cover all simulation needs from the detail
       <pubDate>Tue, 27 Aug 2019 16:31:48 +0300</pubDate>
       
       <guid>https://openadx.eclipse.org/news/2019/08/27/press-release-openadx-becomes-eclipse-working-group-focused-on-interoperability-in-the-autonomous-driving-software-stack/</guid>
-      <description>&lt;p&gt;Originally launched by Bosch and Microsoft, the OpenADx working group calls for participation from automotive industry OEMs, tools vendors, and developer community&lt;/p&gt;</description>
+      <description>The Eclipse Foundation today announced the launch of the OpenADx Working Group, an automotive industry collaboration focused on creating better compatibility, interfaces, and broader interoperability for the autonomous driving software development stack. This working group establishes a much needed vendor-neutral home for industry-wide collaboration in order to speed innovation and productization. OpenADx will enable developers from OEMs, Tier-1 suppliers and tool providers to work together to create innovations that will benefit the entire industry.</description>
     </item>
     
     <item>

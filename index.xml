@@ -11,15 +11,38 @@
     
     
     <item>
+      <title>OpenADx at the IoT Solutions World Congress</title>
+      <link>https://openadx.eclipse.org/news/2019/10/31/openadx-at-the-iot-solutions-world-congress/</link>
+      <pubDate>Thu, 31 Oct 2019 14:16:29 +0300</pubDate>
+      
+      <guid>https://openadx.eclipse.org/news/2019/10/31/openadx-at-the-iot-solutions-world-congress/</guid>
+      <description>Date 28th October 2019
+Learn more here&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title> OpenADx publishes first project - Eclipse iceoryx</title>
+      <link>https://openadx.eclipse.org/news/2019/10/31/openadx-publishes-first-project-eclipse-iceoryx/</link>
+      <pubDate>Thu, 31 Oct 2019 14:14:57 +0300</pubDate>
+      
+      <guid>https://openadx.eclipse.org/news/2019/10/31/openadx-publishes-first-project-eclipse-iceoryx/</guid>
+      <description>Date 25th October 2019
+The initial contribution of Eclipse iceoryx is done! You can find the software in GitHub.
+Learn more here&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>EclipseCon Europe - meet us there</title>
       <link>https://openadx.eclipse.org/news/2019/10/21/eclipsecon-europe-meet-us-there/</link>
       <pubDate>Mon, 21 Oct 2019 17:07:06 +0300</pubDate>
       
       <guid>https://openadx.eclipse.org/news/2019/10/21/eclipsecon-europe-meet-us-there/</guid>
       <description>Date 21st - 24th October 2019
-Open Collaboration for safer Autonomous Mobility of the Future (Director&amp;rsquo;s Pick)
-Work in the field of automated driving and autonomous mobility requires many multi-faceted processes incorporating a variety of software tools. In particular, any software that will be used in a vehicle must undergo rigorous testing, increasingly including vehicle and traffic simulation, as part of the verification and validation (V&amp;amp;V) strategy.
-As of yet, there is no single tool to cover all simulation needs from the detailed level of the vehicle to the transportation system as a whole.</description>
+You will have the chance to get in touch with the OpenADx Working Group in the sessions:
+ Community Day - Automotive@Eclipse 
+ Session: Open Collaboration for safer Autonomous Mobility of the Future
+  Or just look around and get in contact with us.
+Learn more here</description>
     </item>
     
     <item>
@@ -42,8 +65,7 @@ Learn more here&amp;hellip;</description>
       <guid>https://openadx.eclipse.org/events/2019-11-28/</guid>
       <description>Date: 28th - 29th November 2019
 Location: Berlin, Germany
-The Auto.CODE Multi-Touchpoint Networking Concept The most effective and most informal networking hub to reach a maximum of ROI – personal dialogue, direct exchange and numerous opportunities to optimize your sales pipeline and to get meetings with Top Executives!
-World Café Sessions | Keynotes | Best Practices | Benchmarks | Icebreaker Sessions | Live project evaluation | Training &amp;amp; Lunch Sessions | 20+ Case Studies</description>
+auto:CODE 2019 is an international knowledge exchange platform, that will bring together for the first time the entire automotive value chain – From OEMs, Tier 1s through to software providers, to discuss and shape what DevOps really means for the industry and well as for your business. What impact will DevOps have, and how can you effectively implement DevOps to reap maximum benefits?</description>
     </item>
     
     <item>
@@ -55,7 +77,7 @@ World Café Sessions | Keynotes | Best Practices | Benchmarks | Icebreaker Sessi
       <description>Date: 12th - 13th November 2019
 Location: Mövenpick Hotel Stuttgart Airport
 On 12 – 13 November 2019, decision-makers and developers from the industry will meet in Stuttgart to discuss the future of automotive software. At this year’s SOFTWARE DRIVES conference, we will focus on the transformation to large scale distributed automotive software:
- Data Software, architecture and system engineering Virtual simulation, verification and validation Open source: open software development, standardization and open interfaces  Our international experts will offer insights into these topics and will share essential learnings and knowledge exclusively with you.</description>
+ Data Software, architecture and system engineering Virtual simulation, verification and validation Open source: open software development, standardization and open interfaces  Find out more about OpenADx and &amp;ldquo;Open Source as a Way to Collaborate in a Changing Automotive Market&amp;rdquo;</description>
     </item>
     
     <item>
@@ -77,8 +99,8 @@ The IoT Solutions World Congress is the largest IoT event in the world to get in
       <guid>https://openadx.eclipse.org/events/2019-10-21/</guid>
       <description>Date: 21st - 24th October 2019
 Location: Ludwigsburg, Germany
-Work in the field of automated driving and autonomous mobility requires many multi-faceted processes incorporating a variety of software tools. In particular, any software that will be used in a vehicle must undergo rigorous testing, increasingly including vehicle and traffic simulation, as part of the verification and validation (V&amp;amp;V) strategy.
-As of yet, there is no single tool to cover all simulation needs from the detailed level of the vehicle to the transportation system as a whole.</description>
+EclipseCon Europe is the Eclipse Foundation’s primary event designed to create opportunities for the Eclipse community to learn, explore, share and collaborate on the latest ideas and information about Eclipse and its member companies. Every year EclipseCon Europe is rated as outstanding by attendees, speakers, and sponsors.
+EclipseCon is all about community. Contributors, adopters, extenders, service providers, consumers, and business and research organizations gather to share their expertise and learn from each other.</description>
     </item>
     
     <item>
@@ -87,7 +109,8 @@ As of yet, there is no single tool to cover all simulation needs from the detail
       <pubDate>Fri, 18 Oct 2019 16:49:29 +0300</pubDate>
       
       <guid>https://openadx.eclipse.org/news/2019/10/18/welcome-eclipsesource-munich-gmbh-in-the-openadx-working-group/</guid>
-      <description></description>
+      <description>EclipseSource Munich GmbH joined the OpenADx Working Group and will help us to form our working group. Welcome!
+Learn more here&amp;hellip;</description>
     </item>
     
     <item>
@@ -105,7 +128,8 @@ As of yet, there is no single tool to cover all simulation needs from the detail
       <pubDate>Tue, 10 Sep 2019 16:45:02 +0300</pubDate>
       
       <guid>https://openadx.eclipse.org/news/2019/09/10/openadx-at-the-microsoft-booth-on-iaa/</guid>
-      <description></description>
+      <description>Meet OpenADx at the Microsoft Booth at the IAA motorshow in Frankfurt/M. to learn more about the current state.
+Learn more here&amp;hellip;</description>
     </item>
     
     <item>
@@ -114,7 +138,7 @@ As of yet, there is no single tool to cover all simulation needs from the detail
       <pubDate>Tue, 27 Aug 2019 16:31:48 +0300</pubDate>
       
       <guid>https://openadx.eclipse.org/news/2019/08/27/press-release-openadx-becomes-eclipse-working-group-focused-on-interoperability-in-the-autonomous-driving-software-stack/</guid>
-      <description>&lt;p&gt;Originally launched by Bosch and Microsoft, the OpenADx working group calls for participation from automotive industry OEMs, tools vendors, and developer community&lt;/p&gt;</description>
+      <description>The Eclipse Foundation today announced the launch of the OpenADx Working Group, an automotive industry collaboration focused on creating better compatibility, interfaces, and broader interoperability for the autonomous driving software development stack. This working group establishes a much needed vendor-neutral home for industry-wide collaboration in order to speed innovation and productization. OpenADx will enable developers from OEMs, Tier-1 suppliers and tool providers to work together to create innovations that will benefit the entire industry.</description>
     </item>
     
     <item>
