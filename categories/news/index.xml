@@ -5,10 +5,41 @@
     <link>https://openadx.eclipse.org/categories/news/</link>
     <description>Recent content in News on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 21 Oct 2019 17:07:06 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2019 16:32:41 +0300</lastBuildDate>
     
 	<atom:link href="https://openadx.eclipse.org/categories/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft joined OpenADx</title>
+      <link>https://openadx.eclipse.org/news/2019/11/18/microsoft-joined-openadx/</link>
+      <pubDate>Mon, 18 Nov 2019 16:32:41 +0300</pubDate>
+      
+      <guid>https://openadx.eclipse.org/news/2019/11/18/microsoft-joined-openadx/</guid>
+      <description>Date 11th November 2019
+Microsoft joined now also the OpenADx working group to work with us along the autonomous driving toolchain.</description>
+    </item>
+    
+    <item>
+      <title>OpenADx at the IoT Solutions World Congress</title>
+      <link>https://openadx.eclipse.org/news/2019/10/31/openadx-at-the-iot-solutions-world-congress/</link>
+      <pubDate>Thu, 31 Oct 2019 14:16:29 +0300</pubDate>
+      
+      <guid>https://openadx.eclipse.org/news/2019/10/31/openadx-at-the-iot-solutions-world-congress/</guid>
+      <description>Date 28th October 2019
+Learn more here&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title> OpenADx publishes first project - Eclipse iceoryx</title>
+      <link>https://openadx.eclipse.org/news/2019/10/31/openadx-publishes-first-project-eclipse-iceoryx/</link>
+      <pubDate>Thu, 31 Oct 2019 14:14:57 +0300</pubDate>
+      
+      <guid>https://openadx.eclipse.org/news/2019/10/31/openadx-publishes-first-project-eclipse-iceoryx/</guid>
+      <description>Date 25th October 2019
+The initial contribution of Eclipse iceoryx is done! You can find the software in GitHub.
+Learn more here&amp;hellip;</description>
+    </item>
     
     <item>
       <title>EclipseCon Europe - meet us there</title>
