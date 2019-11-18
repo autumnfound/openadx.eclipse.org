@@ -48,11 +48,6 @@
   </url>
   
   <url>
-    <loc>https://openadx.eclipse.org/members/eclipse-source/</loc>
-    <lastmod>2019-10-18T11:34:46+03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://openadx.eclipse.org/news/2019/09/10/openadx-at-the-microsoft-booth-on-iaa/</loc>
     <lastmod>2019-09-10T16:45:02+03:00</lastmod>
   </url>
@@ -103,6 +98,51 @@
   </url>
   
   <url>
+    <loc>https://openadx.eclipse.org/members/avl-list-gmbh/</loc>
+    <lastmod>2019-03-23T05:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openadx.eclipse.org/members/bosch/</loc>
+    <lastmod>2019-03-22T05:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openadx.eclipse.org/members/eclipse-source/</loc>
+    <lastmod>2019-03-21T05:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openadx.eclipse.org/members/eteration/</loc>
+    <lastmod>2019-03-20T05:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openadx.eclipse.org/members/ibm/</loc>
+    <lastmod>2019-03-19T05:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openadx.eclipse.org/members/itemis/</loc>
+    <lastmod>2019-03-18T05:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openadx.eclipse.org/members/jc/</loc>
+    <lastmod>2019-03-17T05:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openadx.eclipse.org/members/microsoft/</loc>
+    <lastmod>2019-03-16T05:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openadx.eclipse.org/members/redhat/</loc>
+    <lastmod>2019-03-15T05:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://openadx.eclipse.org/about/</loc>
     <lastmod>2019-03-14T16:09:45-04:00</lastmod>
   </url>
@@ -110,41 +150,6 @@
   <url>
     <loc>https://openadx.eclipse.org/</loc>
     <lastmod>2019-03-14T15:50:25-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://openadx.eclipse.org/members/avl-list-gmbh/</loc>
-    <lastmod>2019-03-14T05:10:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://openadx.eclipse.org/members/eteration/</loc>
-    <lastmod>2019-03-14T05:10:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://openadx.eclipse.org/members/ibm/</loc>
-    <lastmod>2019-03-14T05:10:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://openadx.eclipse.org/members/itemis/</loc>
-    <lastmod>2019-03-14T05:10:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://openadx.eclipse.org/members/jc/</loc>
-    <lastmod>2019-03-14T05:10:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://openadx.eclipse.org/members/redhat/</loc>
-    <lastmod>2019-03-14T05:10:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://openadx.eclipse.org/members/bosch/</loc>
-    <lastmod>2019-03-14T05:10:00+00:00</lastmod>
   </url>
   
   <url>
@@ -176,7 +181,7 @@
   
   <url>
     <loc>https://openadx.eclipse.org/participation_levels/participant/</loc>
-    <lastmod>2019-10-18T11:34:46+03:00</lastmod>
+    <lastmod>2019-03-23T05:10:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
